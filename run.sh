@@ -1,1 +1,1 @@
-java --module-path com.billyjf.hello.api.HelloProvider.jar:helloworld.jar --module helloworld
+java --module-path api.jar:Jupiter.jar:helloworld.jar --module helloworld

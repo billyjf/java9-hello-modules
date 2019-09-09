@@ -1,5 +1,5 @@
 module helloworld {
-    requires helloproviders;
+    requires helloapi;
 
     uses com.billyjf.hello.api.HelloProvider;
 }
